@@ -1,0 +1,942 @@
+INFO:root:Aurora started
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: rawat search python tutorial
+INFO:root:Raw transcript: rawat search python tutorial
+INFO:root:Processed command: search python tutorial
+INFO:root:Command received: search python tutorial
+INFO:root:Search query: python tutorial
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: a rough weather in london
+INFO:root:Raw transcript: a rough weather in london
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: rawat weather in london
+INFO:root:Raw transcript: rawat weather in london
+INFO:root:Processed command: weather in london
+INFO:root:Command received: weather in london
+INFO:root:Weather query: london
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: rawat translate hello in spanish
+INFO:root:Raw transcript: rawat translate hello in spanish
+INFO:root:Processed command: translate hello in spanish
+INFO:root:Command received: translate hello in spanish
+INFO:root:AI response: The translation of "hello" in Spanish is **"hola"**.  It is a common and universal greeting used in all Spanish-speaking countries.  Let me know if you'd like any additional details.
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: i rawat how are you
+INFO:root:Raw transcript: i rawat how are you
+INFO:root:Processed command: how are you
+INFO:root:Command received: how are you
+INFO:root:Predefined command: how are you
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: rawat tell me who was nikola tesla
+INFO:root:Raw transcript: rawat tell me who was nikola tesla
+INFO:root:Processed command: tell me who was nikola tesla
+INFO:root:Command received: tell me who was nikola tesla
+INFO:root:AI response: Nikola Tesla was a Serbian-American inventor, electrical engineer, and physicist, born in 1856. He is best known for his contributions to the development of alternating current (AC) electrical systems, which revolutionized power distribution. Tesla also pioneered work in wireless communication, radio, and numerous other innovations. His rivalry with Thomas Edison over AC vs. DC power is a famous part of technological history. Tesla died in 1943, leaving a lasting legacy in science and engineering.
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: good job
+INFO:root:Raw transcript: good job
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: rawat good job
+INFO:root:Raw transcript: rawat good job
+INFO:root:Processed command: good job
+INFO:root:Command received: good job
+INFO:root:AI response: "Good job" is a common phrase used to express praise or approval for someone's work, effort, or achievement. It serves as positive reinforcement, encouraging the recipient by acknowledging their success or contribution. The tone can range from casual to formal, depending on context.
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora
+INFO:root:Raw transcript: arora
+INFO:root:Processed command: 
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: rawat exit
+INFO:root:Raw transcript: rawat exit
+INFO:root:Processed command: exit
+INFO:root:Command received: exit
+INFO:root:Exiting Aurora
+INFO:root:Aurora started
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: rawat good job
+INFO:root:Raw transcript: rawat good job
+INFO:root:Processed command: good job
+INFO:root:Command received: good job
+INFO:root:AI response: The phrase "good job" is a common expression used to acknowledge and praise someone's work, effort, or achievement. It serves as positive reinforcement, encouraging the recipient to continue performing well. In this context, it was directed at the AI (Aurora) as a form of appreciation for providing clear and accurate responses.
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: 
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: 
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: 
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: rawat whether in rampur
+INFO:root:Raw transcript: rawat whether in rampur
+INFO:root:Processed command: whether in rampur
+INFO:root:Command received: whether in rampur
+INFO:root:AI response: The phrase "whether in rampur" is unclear and seems incomplete. It might be a typo or an incomplete question.  - If you meant **"weather in Rampur"**, you're likely asking about the current or typical weather conditions in Rampur (a city in Uttar Pradesh, India). The weather varies by season: hot summers (up to 40°C), monsoon rains (July–September), and cool winters (down to 5°C). - If you meant **"whether in Rampur"**, the context is missing (e.g., "whether [something exists/happens] in Rampur").  For a precise answer, please clarify or rephrase your question.
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: pandora but job at that
+INFO:root:Raw transcript: pandora but job at that
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora good job at
+INFO:root:Raw transcript: arora good job at
+INFO:root:Processed command: good job at
+INFO:root:Command received: good job at
+INFO:root:AI response: "Good job at" is a phrase used to compliment someone on their performance or achievement in a specific activity or task. It is often followed by the activity or skill, such as "Good job at solving the problem" or "Good job at playing the piano."
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: good job at that
+INFO:root:Raw transcript: good job at that
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: rawat
+INFO:root:Raw transcript: rawat
+INFO:root:Processed command: 
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora
+INFO:root:Raw transcript: arora
+INFO:root:Processed command: 
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: anurag that
+INFO:root:Raw transcript: anurag that
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora exit
+INFO:root:Raw transcript: arora exit
+INFO:root:Processed command: exit
+INFO:root:Command received: exit
+INFO:root:Exiting Aurora
+INFO:root:Aurora started
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: 
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: rawat set a timer for two minutes
+INFO:root:Raw transcript: rawat set a timer for two minutes
+INFO:root:Processed command: set a timer for two minutes
+INFO:root:Command received: set a timer for two minutes
+ERROR:root:Invalid timer duration: two minutes
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: rawat set a timer for two minutes
+INFO:root:Raw transcript: rawat set a timer for two minutes
+INFO:root:Processed command: set a timer for two minutes
+INFO:root:Command received: set a timer for two minutes
+ERROR:root:Invalid timer duration: two minutes
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora send an email to john about the meeting
+INFO:root:Raw transcript: arora send an email to john about the meeting
+INFO:root:Processed command: send an email to john about the meeting
+INFO:root:Command received: send an email to john about the meeting
+INFO:root:Email sent to john@gmail.com: the meeting
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora then i'd say studymode to the following open pierre code and play focused playlist on youtube than aurora studymode
+INFO:root:Raw transcript: arora then i'd say studymode to the following open pierre code and play focused playlist on youtube than aurora studymode
+INFO:root:Processed command: then i'd say studymode to the following open pierre code and play focused playlist on youtube than aurora studymode
+INFO:root:Command received: then i'd say studymode to the following open pierre code and play focused playlist on youtube than aurora studymode
+INFO:root:Played YouTube video: then i'd say studymode to the following open pierre code and  focused list  than aurora studymode
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: stop
+INFO:root:Raw transcript: stop
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: 
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: 
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: 
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: 
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: rawat when i say studymode to do the following open vs code
+INFO:root:Raw transcript: rawat when i say studymode to do the following open vs code
+INFO:root:Processed command: when i say studymode to do the following open vs code
+INFO:root:Command received: when i say studymode to do the following open vs code
+WARNING:root:Unknown app: when i say studymode to do the following  vs code
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora studymode
+INFO:root:Raw transcript: arora studymode
+INFO:root:Processed command: studymode
+INFO:root:Command received: studymode
+INFO:root:AI response: "Studymode" typically refers to a focused state or setting designed to minimize distractions and enhance concentration while studying. It can also refer to features in apps or devices (e.g., smartphones, educational platforms) that block notifications, limit non-essential functions, or provide tools like timers, flashcards, or note-taking aids to improve productivity. Some online platforms, like StudyMode.com, offer study resources such as essays, notes, or tutorials.  Would you like details on a specific aspect of studymode?
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora exit
+INFO:root:Raw transcript: arora exit
+INFO:root:Processed command: exit
+INFO:root:Command received: exit
+INFO:root:Exiting Aurora
+INFO:root:Aurora started
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: rawat when i say studymode do the following open vs code and lay focus music on youtube
+INFO:root:Raw transcript: rawat when i say studymode do the following open vs code and lay focus music on youtube
+INFO:root:Processed command: when i say studymode do the following open vs code and lay focus music on youtube
+INFO:root:Command received: when i say studymode do the following open vs code and lay focus music on youtube
+WARNING:root:Unknown app: when i say studymode do the following  vs code and lay focus music on youtube
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: 
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: rawat when i say studymode do the following open b s code and lay focus playlist on youtube
+INFO:root:Raw transcript: rawat when i say studymode do the following open b s code and lay focus playlist on youtube
+INFO:root:Processed command: when i say studymode do the following open b s code and lay focus playlist on youtube
+INFO:root:Command received: when i say studymode do the following open b s code and lay focus playlist on youtube
+INFO:root:Played YouTube video: when i say studymode do the following open b s code and lay focus list
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: 
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: rawat exit
+INFO:root:Raw transcript: rawat exit
+INFO:root:Processed command: exit
+INFO:root:Command received: exit
+INFO:root:Exiting Aurora
+INFO:root:Aurora started
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: hello
+INFO:root:Raw transcript: hello
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora when i say morning routine du da following open crore and set a timer for ten minutes in productivity category
+INFO:root:Raw transcript: arora when i say morning routine du da following open crore and set a timer for ten minutes in productivity category
+INFO:root:Processed command: when i say morning routine du da following open crore and set a timer for ten minutes in productivity category
+INFO:root:Command received: when i say morning routine du da following open crore and set a timer for ten minutes in productivity category
+WARNING:root:Unknown app: when i say morning routine du da following  crore and set a timer for ten minutes in productivity category
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: rawat when i say morning routine do the following open chrome and set a timer for ten in productivity
+INFO:root:Raw transcript: rawat when i say morning routine do the following open chrome and set a timer for ten in productivity
+INFO:root:Processed command: when i say morning routine do the following open chrome and set a timer for ten in productivity
+INFO:root:Command received: when i say morning routine do the following open chrome and set a timer for ten in productivity
+WARNING:root:Unknown app: when i say morning routine do the following  chrome and set a timer for ten in productivity
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora exit
+INFO:root:Raw transcript: arora exit
+INFO:root:Processed command: exit
+INFO:root:Command received: exit
+ERROR:root:Failed to load custom_commands.json. Attempting backup.
+ERROR:root:Failed to load backup custom_commands_backup.json.
+INFO:root:Exiting Aurora
+INFO:root:Aurora started
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: 
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora when i say morning routine do the following open chrome and set a timer for ten minutes and productivity
+INFO:root:Raw transcript: arora when i say morning routine do the following open chrome and set a timer for ten minutes and productivity
+INFO:root:Processed command: when i say morning routine do the following open chrome and set a timer for ten minutes and productivity
+INFO:root:Command received: when i say morning routine do the following open chrome and set a timer for ten minutes and productivity, params: None
+ERROR:root:Invalid timer duration: when i say morning routine do the following open chrome and  ten minutes and productivity
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora when i say
+INFO:root:Raw transcript: arora when i say
+INFO:root:Processed command: when i say
+INFO:root:Command received: when i say, params: None
+ERROR:root:Main loop error: cannot access local variable 'actions_part' where it is not associated with a value
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: i rawat then i'd say morning routine du da following open chrome and and set a timer or ten in productivity
+INFO:root:Raw transcript: i rawat then i'd say morning routine du da following open chrome and and set a timer or ten in productivity
+INFO:root:Processed command: then i'd say morning routine du da following open chrome and and set a timer or ten in productivity
+INFO:root:Command received: then i'd say morning routine du da following open chrome and and set a timer or ten in productivity, params: None
+WARNING:root:Unknown app: then i'd say morning routine du da following  chrome and and set a timer or ten in productivity
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: i rawat when i say morning routine to the following open chrome and set a timer for ten in productivity
+INFO:root:Raw transcript: i rawat when i say morning routine to the following open chrome and set a timer for ten in productivity
+INFO:root:Processed command: when i say morning routine to the following open chrome and set a timer for ten in productivity
+INFO:root:Command received: when i say morning routine to the following open chrome and set a timer for ten in productivity, params: None
+ERROR:root:Invalid timer duration: when i say morning routine to the following open chrome and  ten in productivity
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: a rawat when i say morning routine do the following open chrome and set a timer for ten in productivity
+INFO:root:Raw transcript: a rawat when i say morning routine do the following open chrome and set a timer for ten in productivity
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: rawat exit
+INFO:root:Raw transcript: rawat exit
+INFO:root:Processed command: exit
+INFO:root:Command received: exit, params: None
+ERROR:root:Failed to load custom_commands.json. Attempting backup.
+ERROR:root:Failed to load backup custom_commands_backup.json.
+INFO:root:Exiting Aurora
+INFO:root:Aurora started
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora when i say morning routine to the following open chrome and set a timer for ten in productivity
+INFO:root:Raw transcript: arora when i say morning routine to the following open chrome and set a timer for ten in productivity
+INFO:root:Processed command: when i say morning routine to the following open chrome and set a timer for ten in productivity
+INFO:root:Command received: when i say morning routine to the following open chrome and set a timer for ten in productivity, params: None
+ERROR:root:Invalid timer duration: when i say morning routine to the following open chrome and  ten in productivity
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: 
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora added
+INFO:root:Raw transcript: arora added
+INFO:root:Processed command: added
+INFO:root:Command received: added, params: None
+ERROR:root:Failed to load custom_commands.json. Attempting backup.
+ERROR:root:Failed to load backup custom_commands_backup.json.
+INFO:root:Aurora started
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: 
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: rawat bernice their morning routine to the following open chrome and set a timer for ten in productivity
+INFO:root:Raw transcript: rawat bernice their morning routine to the following open chrome and set a timer for ten in productivity
+INFO:root:Processed command: bernice their morning routine to the following open chrome and set a timer for ten in productivity
+INFO:root:Command received: bernice their morning routine to the following open chrome and set a timer for ten in productivity, params: None
+WARNING:root:Unknown app: bernice their morning routine to the following  chrome and set a timer for ten in productivity
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: i rawat when i say morning routine do the following open chrome and set a timer for ten in productivity
+INFO:root:Raw transcript: i rawat when i say morning routine do the following open chrome and set a timer for ten in productivity
+INFO:root:Processed command: when i say morning routine do the following open chrome and set a timer for ten in productivity
+INFO:root:Command received: when i say morning routine do the following open chrome and set a timer for ten in productivity, params: None
+INFO:root:Parsing timer duration: when i say morning routine do the following open chrome and  ten in productivity
+ERROR:root:Timer parsing error: when i say morning routine do the following open chrome and  ten in productivity, Exception: invalid literal for int() with base 10: 'when'
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora at that
+INFO:root:Raw transcript: arora at that
+INFO:root:Processed command: at that
+INFO:root:Command received: at that, params: None
+ERROR:root:Failed to load custom_commands.json. Attempting backup.
+ERROR:root:Failed to load backup custom_commands_backup.json.
+INFO:root:Aurora started
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: ah rawat then i say morning routine to tap following open chrome and set a timer for five in productivity
+INFO:root:Raw transcript: ah rawat then i say morning routine to tap following open chrome and set a timer for five in productivity
+INFO:root:Processed command: then i say morning routine to tap following open chrome and set a timer for five in productivity
+INFO:root:Command received: then i say morning routine to tap following open chrome and set a timer for five in productivity, params: None
+WARNING:root:Unknown app: then i say morning routine to tap following  chrome and set a timer for five in productivity
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: a rawat then i say morning routine do the following open chrome and set a timer or five in productivity
+INFO:root:Raw transcript: a rawat then i say morning routine do the following open chrome and set a timer or five in productivity
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: i wrote then i say morning routine to the online open chrome and set a timer for five in productivity
+INFO:root:Raw transcript: i wrote then i say morning routine to the online open chrome and set a timer for five in productivity
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: adora when i'd say morning routine to the following open chrome and set a timer for five in productivity
+INFO:root:Raw transcript: adora when i'd say morning routine to the following open chrome and set a timer for five in productivity
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: a rawat when i say morning routine to the following open chrome and set a timer for five in productivity
+INFO:root:Raw transcript: a rawat when i say morning routine to the following open chrome and set a timer for five in productivity
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: rawat then i say morning routine du da for lying open chrome and set a timer for five in productivity
+INFO:root:Raw transcript: rawat then i say morning routine du da for lying open chrome and set a timer for five in productivity
+INFO:root:Processed command: then i say morning routine du da for lying open chrome and set a timer for five in productivity
+INFO:root:Command received: then i say morning routine du da for lying open chrome and set a timer for five in productivity, params: None
+WARNING:root:Unknown app: then i say morning routine du da for lying  chrome and set a timer for five in productivity
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora then i say modelling routine to the following open chrome and set a timer for five in productivity
+INFO:root:Raw transcript: arora then i say modelling routine to the following open chrome and set a timer for five in productivity
+INFO:root:Processed command: then i say modelling routine to the following open chrome and set a timer for five in productivity
+INFO:root:Command received: then i say modelling routine to the following open chrome and set a timer for five in productivity, params: None
+WARNING:root:Unknown app: then i say modelling routine to the following  chrome and set a timer for five in productivity
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora
+INFO:root:Raw transcript: arora
+INFO:root:Processed command: 
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: and when i say retail do the following open chrome and set a timer for five and productivity
+INFO:root:Raw transcript: and when i say retail do the following open chrome and set a timer for five and productivity
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: rawat when their morning routine do for online open chrome and set a timer for five minutes and productivity
+INFO:root:Raw transcript: rawat when their morning routine do for online open chrome and set a timer for five minutes and productivity
+INFO:root:Processed command: when their morning routine do for online open chrome and set a timer for five minutes and productivity
+INFO:root:Command received: when their morning routine do for online open chrome and set a timer for five minutes and productivity, params: None
+WARNING:root:Unknown app: when their morning routine do for online  chrome and set a timer for five minutes and productivity
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: bharara when their morning routine for lying open wrong and
+INFO:root:Raw transcript: bharara when their morning routine for lying open wrong and
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora when i say morning routine though dark following open crore and said deborah orr in the activity
+INFO:root:Raw transcript: arora when i say morning routine though dark following open crore and said deborah orr in the activity
+INFO:root:Processed command: when i say morning routine though dark following open crore and said deborah orr in the activity
+INFO:root:Command received: when i say morning routine though dark following open crore and said deborah orr in the activity, params: None
+ERROR:root:Main loop error: cannot access local variable 'actions_part' where it is not associated with a value
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: 
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: aurora at that
+INFO:root:Raw transcript: aurora at that
+INFO:root:Processed command: at that
+INFO:root:Command received: at that, params: None
+ERROR:root:Failed to load custom_commands.json. Attempting backup.
+ERROR:root:Failed to load backup custom_commands_backup.json.
+INFO:root:Aurora started
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: adora when their morning routine to da following open rome and that diaper for than in productivity
+INFO:root:Raw transcript: adora when their morning routine to da following open rome and that diaper for than in productivity
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora when i say morning routine du da for lying open crore and that our time and part time and productivity
+INFO:root:Raw transcript: arora when i say morning routine du da for lying open crore and that our time and part time and productivity
+INFO:root:Processed command: when i say morning routine du da for lying open crore and that our time and part time and productivity
+INFO:root:Command received: when i say morning routine du da for lying open crore and that our time and part time and productivity, params: None
+ERROR:root:Main loop error: cannot access local variable 'actions_part' where it is not associated with a value
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: 
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: huh rawat
+INFO:root:Raw transcript: huh rawat
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora
+INFO:root:Raw transcript: arora
+INFO:root:Processed command: 
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora at that
+INFO:root:Raw transcript: arora at that
+INFO:root:Processed command: at that
+INFO:root:Command received: at that, params: None
+ERROR:root:Failed to load custom_commands.json. Attempting backup.
+ERROR:root:Failed to load backup custom_commands_backup.json.
+INFO:root:Aurora started
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: i rawat set a timer for ten
+INFO:root:Raw transcript: i rawat set a timer for ten
+INFO:root:Processed command: set a timer for ten
+INFO:root:Command received: set a timer for ten, params: None
+INFO:root:Setting timer with duration: ten
+INFO:root:Parsing timer duration: ten
+INFO:root:Timer set: 10 minutes timer
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora better time for pipe
+INFO:root:Raw transcript: arora better time for pipe
+INFO:root:Processed command: better time for pipe
+INFO:root:Command received: better time for pipe, params: None
+ERROR:root:Failed to load custom_commands.json. Attempting backup.
+ERROR:root:Failed to load backup custom_commands_backup.json.
+INFO:root:Timer cancelled: 10 minutes timer
+INFO:root:AI response: The# 1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora set a timer for five
+INFO:root:Raw transcript: arora set a timer for five
+INFO:root:Processed command: set a timer for five
+INFO:root:Command received: set a timer for five, params: None
+INFO:root:Setting timer with duration: five
+INFO:root:Parsing timer duration: five
+INFO:root:Timer set: 5 minutes timer
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: 
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: sorry i didn't catch that
+INFO:root:Raw transcript: sorry i didn't catch that
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: rawat set a timer for ten minutes
+INFO:root:Raw transcript: rawat set a timer for ten minutes
+INFO:root:Processed command: set a timer for ten minutes
+INFO:root:Command received: set a timer for ten minutes, params: None
+INFO:root:Setting timer with duration: ten minutes
+INFO:root:Parsing timer duration: ten minutes
+INFO:root:Timer set: 10 minutes timer
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: when i say that's a query to the following
+INFO:root:Raw transcript: when i say that's a query to the following
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: and when i say that puri do the following search query in general
+INFO:root:Raw transcript: and when i say that puri do the following search query in general
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: orange
+INFO:root:Raw transcript: orange
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora when say
+INFO:root:Raw transcript: arora when say
+INFO:root:Processed command: when say
+INFO:root:Command received: when say, params: None
+ERROR:root:Failed to load custom_commands.json. Attempting backup.
+ERROR:root:Failed to load backup custom_commands_backup.json.
+INFO:root:Timer cancelled: 10 minutes timer
+INFO:root:AI response: The phrase "when say" is incomplete and unclear in meaning. It could be part of a larger question or statement, such as:  - **"When you say [X], what do you mean?"** (Asking for clarification.) - **"When we say [term], we refer to..."** (Defining a concept.)  Without additional context, a precise answer isn't possible. Could you clarify or complete the phrase?
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: 
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: sorry khattar
+INFO:root:Raw transcript: sorry khattar
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: rawat said morning routine ta da pol lying open wrong and that that time were quarter and productivity
+INFO:root:Raw transcript: rawat said morning routine ta da pol lying open wrong and that that time were quarter and productivity
+INFO:root:Processed command: said morning routine ta da pol lying open wrong and that that time were quarter and productivity
+INFO:root:Command received: said morning routine ta da pol lying open wrong and that that time were quarter and productivity, params: None
+WARNING:root:Unknown app: said morning routine ta da pol lying  wrong and that that time were quarter and productivity
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: a rawat when their morning routine to the following open prone and set a timer for ten in productivity
+INFO:root:Raw transcript: a rawat when their morning routine to the following open prone and set a timer for ten in productivity
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora
+INFO:root:Raw transcript: arora
+INFO:root:Processed command: 
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora that
+INFO:root:Raw transcript: arora that
+INFO:root:Processed command: that
+INFO:root:Command received: that, params: None
+ERROR:root:Failed to load custom_commands.json. Attempting backup.
+ERROR:root:Failed to load backup custom_commands_backup.json.
+INFO:root:AI response: The word "that" is a pronoun, determiner, or conjunction in English. It can refer to a specific thing, introduce a clause, or emphasize a statement. For example: - **Pronoun:** "That is my book." (referring to something) - **Conjunction:** "She said that she would come." (introducing a clause) - **Determiner:** "That car is fast." (specifying a noun).  It is used for clarity or to connect ideas. Let me know if you'd like further details.
+INFO:root:Started speech recognition
+INFO:root:Aurora stopped
+INFO:root:Aurora started
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora when day morning routine for lying open chrome and set a timer for ten in productivity
+INFO:root:Raw transcript: arora when day morning routine for lying open chrome and set a timer for ten in productivity
+INFO:root:Processed command: when day morning routine for lying open chrome and set a timer for ten in productivity
+INFO:root:Command received: when day morning routine for lying open chrome and set a timer for ten in productivity, params: None
+WARNING:root:Unknown app: when day morning routine for lying  chrome and set a timer for ten in productivity
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: i rawat when i say morning routine to the following open chrome and set a timer for ten in productivity
+INFO:root:Raw transcript: i rawat when i say morning routine to the following open chrome and set a timer for ten in productivity
+INFO:root:Processed command: when i say morning routine to the following open chrome and set a timer for ten in productivity
+INFO:root:Command received: when i say morning routine to the following open chrome and set a timer for ten in productivity, params: None
+INFO:root:Setting timer with duration: when i say morning routine to the following open chrome and  ten in productivity
+INFO:root:Parsing timer duration: when i say morning routine to the following open chrome and  ten in productivity
+ERROR:root:Timer parsing error: when i say morning routine to the following open chrome and  ten in productivity, Exception: invalid literal for int() with base 10: 'when'
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: 
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: 
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: rawat delete custom command bonding routine
+INFO:root:Raw transcript: rawat delete custom command bonding routine
+INFO:root:Processed command: delete custom command bonding routine
+INFO:root:Command received: delete custom command bonding routine, params: None
+ERROR:root:Failed to load custom_commands.json. Attempting backup.
+ERROR:root:Failed to load backup custom_commands_backup.json.
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: 
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: 
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: i rawat nice day morning routine daughter for lying open wrong and set a timer for ten in productivity
+INFO:root:Raw transcript: i rawat nice day morning routine daughter for lying open wrong and set a timer for ten in productivity
+INFO:root:Processed command: nice day morning routine daughter for lying open wrong and set a timer for ten in productivity
+INFO:root:Command received: nice day morning routine daughter for lying open wrong and set a timer for ten in productivity, params: None
+WARNING:root:Unknown app: nice day morning routine daughter for lying  wrong and set a timer for ten in productivity
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora when i say morning routine order online open chrome and set a timer for ten and productivity
+INFO:root:Raw transcript: arora when i say morning routine order online open chrome and set a timer for ten and productivity
+INFO:root:Processed command: when i say morning routine order online open chrome and set a timer for ten and productivity
+INFO:root:Command received: when i say morning routine order online open chrome and set a timer for ten and productivity, params: None
+INFO:root:Setting timer with duration: when i say morning routine order online open chrome and  ten and productivity
+INFO:root:Parsing timer duration: when i say morning routine order online open chrome and  ten and productivity
+ERROR:root:Timer parsing error: when i say morning routine order online open chrome and  ten and productivity, Exception: invalid literal for int() with base 10: 'when'
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora when i say morning routine to the following
+INFO:root:Raw transcript: arora when i say morning routine to the following
+INFO:root:Processed command: when i say morning routine to the following
+INFO:root:Command received: when i say morning routine to the following, params: None
+INFO:root:Parsed custom command: trigger=morning routine, actions=[], category=general
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: a rough when i say play music then play music on youtube
+INFO:root:Raw transcript: a rough when i say play music then play music on youtube
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: aurora when i play music then play music on youtube
+INFO:root:Raw transcript: aurora when i play music then play music on youtube
+INFO:root:Processed command: when i play music then play music on youtube
+INFO:root:Command received: when i play music then play music on youtube, params: None
+INFO:root:Played YouTube video: when i  music then  music
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: 
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora send e-mail to paras babbar by five about meeting
+INFO:root:Raw transcript: arora send e-mail to paras babbar by five about meeting
+INFO:root:Processed command: send e-mail to paras babbar by five about meeting
+INFO:root:Command received: send e-mail to paras babbar by five about meeting, params: None
+ERROR:root:Failed to load custom_commands.json. Attempting backup.
+ERROR:root:Failed to load backup custom_commands_backup.json.
+INFO:root:AI response: **Response:**  To send an email to Paras Babbar regarding a meeting by 5 PM, follow these steps:  1. **Open your email client** (e.g., Outlook, Gmail). 2. **Compose a new email** with a clear subject (e.g., "Meeting Request").
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: adora
+INFO:root:Raw transcript: adora
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora exit
+INFO:root:Raw transcript: arora exit
+INFO:root:Processed command: exit
+INFO:root:Command received: exit, params: None
+ERROR:root:Failed to load custom_commands.json. Attempting backup.
+ERROR:root:Failed to load backup custom_commands_backup.json.
+INFO:root:Exiting Aurora
+INFO:root:Aurora started
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: i rawat set a timer for one
+INFO:root:Raw transcript: i rawat set a timer for one
+INFO:root:Processed command: set a timer for one
+INFO:root:Command received: set a timer for one, params: None
+INFO:root:Setting timer with duration: one
+INFO:root:Parsing timer duration: one
+INFO:root:Timer set: 1 minutes timer
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora how are you
+INFO:root:Raw transcript: arora how are you
+INFO:root:Processed command: how are you
+INFO:root:Command received: how are you, params: None
+ERROR:root:Failed to load custom_commands.json. Attempting backup.
+ERROR:root:Failed to load backup custom_commands_backup.json.
+INFO:root:Predefined command: how are you
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora what you can do
+INFO:root:Raw transcript: arora what you can do
+INFO:root:Processed command: what you can do
+INFO:root:Command received: what you can do, params: None
+ERROR:root:Failed to load custom_commands.json. Attempting backup.
+ERROR:root:Failed to load backup custom_commands_backup.json.
+INFO:root:AI response: I can provide clear, factual answers to your questions on topics like science, history, technology, and general knowledge. I can also assist with explanations, definitions, calculations, and problem-solving within my knowledge base (up to June 2024). I do not offer opinions, creative content, or real-time data. Let me know your specific query!
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora who made you
+INFO:root:Raw transcript: arora who made you
+INFO:root:Processed command: who made you
+INFO:root:Command received: who made you, params: None
+ERROR:root:Failed to load custom_commands.json. Attempting backup.
+ERROR:root:Failed to load backup custom_commands_backup.json.
+INFO:root:AI response: I was created by a team of engineers and researchers at OpenAI, an artificial intelligence research lab. My purpose is to assist with information and tasks based on the data and algorithms I was trained on.
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: 
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: i rawat at that
+INFO:root:Raw transcript: i rawat at that
+INFO:root:Processed command: at that
+INFO:root:Command received: at that, params: None
+ERROR:root:Failed to load custom_commands.json. Attempting backup.
+ERROR:root:Failed to load backup custom_commands_backup.json.
+INFO:root:Aurora started
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: adora when i say morning routine to the following open chrome and set a timer for ten in productivity
+INFO:root:Raw transcript: adora when i say morning routine to the following open chrome and set a timer for ten in productivity
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: aurora when i say morning routine to the following open chrome and set a timer for ten in productivity
+INFO:root:Raw transcript: aurora when i say morning routine to the following open chrome and set a timer for ten in productivity
+INFO:root:Processed command: when i say morning routine to the following open chrome and set a timer for ten in productivity
+INFO:root:Command received: when i say morning routine to the following open chrome and set a timer for ten in productivity, params: None
+INFO:root:Setting timer with duration: when i say morning routine to the following open chrome and  ten in productivity
+INFO:root:Setting timer with duration: when i say morning routine to the following open chrome and  ten in productivity
+ERROR:root:Timer parsing error: when i say morning routine to the following open chrome and  ten in productivity, Exception: invalid literal for int() with base 10: 'when'
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora at that
+INFO:root:Raw transcript: arora at that
+INFO:root:Processed command: at that
+INFO:root:Command received: at that, params: None
+ERROR:root:Failed to load custom_commands.json. Attempting backup.
+ERROR:root:Failed to load backup custom_commands_backup.json.
+INFO:root:AI response: The phrase **"at that"** is an idiomatic expression used to emphasize or add extra information, often suggesting something is surprising or noteworthy.  ### Common uses: 1. **Adding emphasis**: - *"He’s a talented musician, and a humble one at that."* (Emphasizes his humility as an added quality.) 
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: i rawat at that
+INFO:root:Raw transcript: i rawat at that
+INFO:root:Processed command: at that
+INFO:root:Command received: at that, params: None
+ERROR:root:Failed to load custom_commands.json. Attempting backup.
+ERROR:root:Failed to load backup custom_commands_backup.json.
+INFO:root:Aurora started
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: aurora then i say study more
+INFO:root:Raw transcript: aurora then i say study more
+INFO:root:Processed command: then i say study more
+INFO:root:Command received: then i say study more, params: None
+ERROR:root:Failed to load custom_commands.json. Attempting backup.
+ERROR:root:Failed to load backup custom_commands_backup.json.
+INFO:root:AI response: The phrase **"then I say study more"** suggests a response to a situation where additional learning or effort is needed. It implies that if someone lacks knowledge or makes a mistake, the solution is to **study further** to improve understanding or performance.  This could apply to academic contexts, skill development, or any scenario where increased knowledge or practice is beneficial. The tone may vary (encouraging, dismissive, or matter-of-fact) depending on context.  Would you like clarification on a specific use of this phrase?
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: vs code
+INFO:root:Raw transcript: vs code
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora when they study mode to open v s code and set a timer for teen in productivity
+INFO:root:Raw transcript: arora when they study mode to open v s code and set a timer for teen in productivity
+INFO:root:Processed command: when they study mode to open v s code and set a timer for teen in productivity
+INFO:root:Command received: when they study mode to open v s code and set a timer for teen in productivity, params: None
+WARNING:root:Unknown app: when they study mode to  v s code and set a timer for teen in productivity
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora when i say study mode do the following open b s code and set a timer for fifteen in productivity
+INFO:root:Raw transcript: arora when i say study mode do the following open b s code and set a timer for fifteen in productivity
+INFO:root:Processed command: when i say study mode do the following open b s code and set a timer for fifteen in productivity
+INFO:root:Command received: when i say study mode do the following open b s code and set a timer for fifteen in productivity, params: None
+INFO:root:Setting timer with duration: when i say study mode do the following open b s code and  fifteen in productivity
+INFO:root:Setting timer with duration: when i say study mode do the following open b s code and  fifteen in productivity
+ERROR:root:Timer parsing error: when i say study mode do the following open b s code and  fifteen in productivity, Exception: invalid literal for int() with base 10: 'when'
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: adora
+INFO:root:Raw transcript: adora
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: i rawat great command brave time to do open notepad and
+INFO:root:Raw transcript: i rawat great command brave time to do open notepad and
+INFO:root:Processed command: great command brave time to do open notepad and
+INFO:root:Command received: great command brave time to do open notepad and, params: None
+WARNING:root:Unknown app: great command brave time to do  notepad and
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: i rawat create a command their time to do open notepad and relaxing music on youtube in entertainment
+INFO:root:Raw transcript: i rawat create a command their time to do open notepad and relaxing music on youtube in entertainment
+INFO:root:Processed command: create a command their time to do open notepad and relaxing music on youtube in entertainment
+INFO:root:Command received: create a command their time to do open notepad and relaxing music on youtube in entertainment, params: None
+INFO:root:Parsed custom command: trigger=their time, actions=['open notepad', 'relaxing music on youtube'], category=entertainment
+INFO:root:Normalizing action: open notepad
+INFO:root:Validating action: open notepad
+ERROR:root:Failed to load custom_commands.json. Attempting backup.
+ERROR:root:Failed to load backup custom_commands_backup.json.
+ERROR:root:Failed to load custom_commands.json. Attempting backup.
+ERROR:root:Failed to load backup custom_commands_backup.json.
+ERROR:root:Failed to load custom_commands.json. Attempting backup.
+ERROR:root:Failed to load backup custom_commands_backup.json.
+ERROR:root:Failed to load custom_commands.json. Attempting backup.
+ERROR:root:Failed to load backup custom_commands_backup.json.
+INFO:root:Valid action: open notepad
+INFO:root:Added valid action: open notepad
+INFO:root:Normalizing action: relaxing music on youtube
+INFO:root:Validating action: relaxing music on youtube
+ERROR:root:Failed to load custom_commands.json. Attempting backup.
+ERROR:root:Failed to load backup custom_commands_backup.json.
+ERROR:root:Failed to load custom_commands.json. Attempting backup.
+ERROR:root:Failed to load backup custom_commands_backup.json.
+ERROR:root:Failed to load custom_commands.json. Attempting backup.
+ERROR:root:Failed to load backup custom_commands_backup.json.
+ERROR:root:Failed to load custom_commands.json. Attempting backup.
+ERROR:root:Failed to load backup custom_commands_backup.json.
+ERROR:root:Failed to load custom_commands.json. Attempting backup.
+ERROR:root:Failed to load backup custom_commands_backup.json.
+ERROR:root:Failed to load custom_commands.json. Attempting backup.
+ERROR:root:Failed to load backup custom_commands_backup.json.
+ERROR:root:Failed to load custom_commands.json. Attempting backup.
+ERROR:root:Failed to load backup custom_commands_backup.json.
+ERROR:root:Failed to load custom_commands.json. Attempting backup.
+ERROR:root:Failed to load backup custom_commands_backup.json.
+ERROR:root:Failed to load custom_commands.json. Attempting backup.
+ERROR:root:Failed to load backup custom_commands_backup.json.
+ERROR:root:Failed to load custom_commands.json. Attempting backup.
+ERROR:root:Failed to load backup custom_commands_backup.json.
+WARNING:root:Action validation failed: relaxing music on youtube
+WARNING:root:Invalid action after normalization: relaxing music on youtube
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: ah rawat yes
+INFO:root:Raw transcript: ah rawat yes
+INFO:root:Processed command: yes
+INFO:root:Command received: yes, params: None
+INFO:root:Processing confirmation for action: {'type': 'add_custom_command', 'trigger': 'their time', 'actions': ['open notepad'], 'category': 'entertainment'}
+INFO:root:Normalizing action: open notepad
+INFO:root:Validating action: open notepad
+ERROR:root:Failed to load custom_commands.json. Attempting backup.
+ERROR:root:Failed to load backup custom_commands_backup.json.
+ERROR:root:Failed to load custom_commands.json. Attempting backup.
+ERROR:root:Failed to load backup custom_commands_backup.json.
+ERROR:root:Failed to load custom_commands.json. Attempting backup.
+ERROR:root:Failed to load backup custom_commands_backup.json.
+ERROR:root:Failed to load custom_commands.json. Attempting backup.
+ERROR:root:Failed to load backup custom_commands_backup.json.
+INFO:root:Valid action: open notepad
+INFO:root:Added valid action: open notepad
+ERROR:root:Failed to load custom_commands.json. Attempting backup.
+ERROR:root:Failed to load backup custom_commands_backup.json.
+INFO:root:Created backup of custom commands
+INFO:root:Saved custom commands
+INFO:root:Custom command added: their time, category: entertainment, actions: ['open notepad']
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: 
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: adora time blake
+INFO:root:Raw transcript: adora time blake
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: rawat break time
+INFO:root:Raw transcript: rawat break time
+INFO:root:Processed command: break time
+INFO:root:Command received: break time, params: None
+INFO:root:AI response: The phrase "break time" refers to a scheduled period of rest or pause from work, study, or other activities. It allows individuals to recharge, relax, or attend to personal needs before resuming their tasks. Common examples include lunch breaks, short rest intervals, or scheduled downtime in workplaces and schools.
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: a rawat their time
+INFO:root:Raw transcript: a rawat their time
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: their time
+INFO:root:Raw transcript: their time
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: bear time
+INFO:root:Raw transcript: bear time
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: i rawat their time
+INFO:root:Raw transcript: i rawat their time
+INFO:root:Processed command: their time
+INFO:root:Command received: their time, params: None
+INFO:root:Executing custom command: their time, params={}
+INFO:root:Executing action: open notepad
+INFO:root:Command received: open notepad, params: None
+INFO:root:Opened app: notepad
+INFO:root:Executed custom command: their time, params: {}
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: 
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora at that
+INFO:root:Raw transcript: arora at that
+INFO:root:Processed command: at that
+INFO:root:Command received: at that, params: None
+INFO:root:AI response: The phrase **"at that"** is an idiomatic expression used to emphasize or add extra information, often suggesting something is surprising or noteworthy.  ### Common uses: 1. **Adding emphasis**: - *"He’s a talented musician, and a humble one at that."* (Emphasizes his humility as an added quality.) 
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: 
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora that
+INFO:root:Raw transcript: arora that
+INFO:root:Processed command: that
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora at that
+INFO:root:Raw transcript: arora at that
+INFO:root:Processed command: at that
+INFO:root:Command received: at that, params: None
+INFO:root:Aurora started
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: adora create a command song told to play a song on youtube in entertainment
+INFO:root:Raw transcript: adora create a command song told to play a song on youtube in entertainment
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: i rawat great command place to do play a song on youtube in entertainment
+INFO:root:Raw transcript: i rawat great command place to do play a song on youtube in entertainment
+INFO:root:Processed command: great command place to do play a song on youtube in entertainment
+INFO:root:Command received: great command place to do play a song on youtube in entertainment, params: None
+INFO:root:Played YouTube video: great command place to do  a song  in entertainment
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: 
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: a rohira create
+INFO:root:Raw transcript: a rohira create
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: i rawat create command less song to do less song on youtube in entertainment
+INFO:root:Raw transcript: i rawat create command less song to do less song on youtube in entertainment
+INFO:root:Processed command: create command less song to do less song on youtube in entertainment
+INFO:root:Command received: create command less song to do less song on youtube in entertainment, params: None
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\shikh\\myenv\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\shikh\myenv\venv\Lib\site-packages\comtypes\gen'
+INFO:comtypes.client._generate:Could not import comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4: Typelib different than module
+INFO:comtypes.client._generate:# Generating comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4
+INFO:comtypes.client._generate:# Generating comtypes.gen.SpeechLib
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\shikh\\myenv\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\shikh\myenv\venv\Lib\site-packages\comtypes\gen'
+INFO:root:Aurora started
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora said retirement for ten minutes
+INFO:root:Recognized command: arora said retirement for ten minutes
+INFO:root:Command received: arora said retirement for ten minutes, params: None
+INFO:root:Aurora started
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: rawat set a timer for ten minutes
+INFO:root:Raw transcript: rawat set a timer for ten minutes
+INFO:root:Processed command: set a timer for ten minutes
+INFO:root:Command received: set a timer for ten minutes, params: None
+INFO:root:Setting timer with duration: ten minutes
+INFO:root:Setting timer with duration: ten minutes
+INFO:root:Timer set: 10 minutes timer
+INFO:root:Started speech recognition
+INFO:root:Timer cancelled: 10 minutes timer
+INFO:root:Recognized speech: stop
+INFO:root:Raw transcript: stop
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora said g k pipe
+INFO:root:Raw transcript: arora said g k pipe
+INFO:root:Processed command: said g k pipe
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora said git a pipe
+INFO:root:Raw transcript: arora said git a pipe
+INFO:root:Processed command: said git a pipe
+INFO:root:Command received: said git a pipe, params: None
+INFO:root:AI response: \u5fd7\u6210The phrase "said git a pipe" appears to be a misinterpretation or typo. If you meant **"git pipe"**, it likely refers to using Git (version control system) with shell pipes (`|`) for command chaining (e.g., `git log | grep "commit"`).  If you meant **"GitHub"**, it’s a platform for Git repositories.  For clarity, please specify the context (e.g., Git commands, GitHub, or shell scripting).
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora explained get help
+INFO:root:Raw transcript: arora explained get help
+INFO:root:Processed command: explained get help
+INFO:root:Command received: explained get help, params: None
+INFO:root:AI response: "Get help" typically means to seek assistance or support for a problem, task, or situation.  1. **General Use**: Asking someone (a person, service, or tool) to provide guidance, information, or aid. - Example: *"If you're stuck, get help from a teacher."*  2. **Technology/Software**: Many apps/websites have a "Get Help" option for troubleshooting or FAQs.
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: adora explained get her
+INFO:root:Raw transcript: adora explained get her
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: rawat explained it have
+INFO:root:Raw transcript: rawat explained it have
+INFO:root:Processed command: explained it have
+INFO:root:Command received: explained it have, params: None
+INFO:root:AI response: It seems like the phrase "explained it have" is either incomplete or grammatically incorrect.  If you meant: - **"Have it explained"** – This could mean asking someone to clarify or provide an explanation for something. - **"It has been explained"** – This means that an explanation has already been given. 
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora break time
+INFO:root:Raw transcript: arora break time
+INFO:root:Processed command: break time
+INFO:root:Command received: break time, params: None
+INFO:root:AI response: "Break time" refers to a short period of rest or pause from work, study, or other activities. It allows individuals to recharge, reduce stress, and improve focus before resuming tasks. Common examples include coffee breaks, lunch breaks, or scheduled intervals in meetings.
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora exit
+INFO:root:Raw transcript: arora exit
+INFO:root:Processed command: exit
+INFO:root:Command received: exit, params: None
+INFO:root:Exiting Aurora
+INFO:root:Aurora started
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: adora break time
+INFO:root:Raw transcript: adora break time
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: adora break time
+INFO:root:Raw transcript: adora break time
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: adora break time
+INFO:root:Raw transcript: adora break time
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora break time
+INFO:root:Raw transcript: arora break time
+INFO:root:Processed command: break time
+INFO:root:Command received: break time, params: None
+INFO:root:Aurora started
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: adora break time
+INFO:root:Raw transcript: adora break time
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: a roller break time
+INFO:root:Raw transcript: a roller break time
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora break time
+INFO:root:Raw transcript: arora break time
+INFO:root:Processed command: break time
+INFO:root:Command received: break time, params: None
+INFO:root:AI response: "Break time" refers to a period of rest or pause from work, study, or other activities. It allows individuals to recharge, reduce stress, and improve productivity before resuming their tasks. Common examples include short coffee breaks, lunch breaks, or scheduled intervals during long sessions. The duration and frequency depend on context (e.g., workplace policies, school schedules).
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: aurora tell me about it
+INFO:root:Raw transcript: aurora tell me about it
+INFO:root:Processed command: tell me about it
+INFO:root:Command received: tell me about it, params: None
+INFO:root:AI response: The phrase *"tell me about it"* is an English idiom typically used to express agreement, often in a sarcastic or empathetic way. For example: - *"This weather is so hot!"* \u2192 *"Ugh, tell me about it!"* (meaning: *"I completely agree; I’ve experienced it too"*).  It can also be a literal request for information (e.g., *"Tell me about your job"*), but context determines the meaning. Let me know if you’d like clarification!
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: arora in them
+INFO:root:Raw transcript: arora in them
+INFO:root:Processed command: in them
+INFO:root:Command received: in them, params: None
+INFO:root:AI response: The phrase *"in them"* is a prepositional phrase consisting of: - **"in"** (preposition indicating location, state, or inclusion). - **"them"** (object pronoun referring to previously mentioned things/people).  ### Usage Examples: 1. **Location:** *"The keys are in them."* (Inside a bag/box)
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: adora tell me whether islam
+INFO:root:Raw transcript: adora tell me whether islam
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: adora tell me whether anyone
+INFO:root:Raw transcript: adora tell me whether anyone
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: rawat tell me whether now
+INFO:root:Raw transcript: rawat tell me whether now
+INFO:root:Processed command: tell me whether now
+INFO:root:Command received: tell me whether now, params: None
+INFO:root:AI response: The phrase "tell me whether now" is unclear and lacks context. To provide an accurate response, you would need to specify what you are asking about (e.g., time, weather, a decision, etc.). Without additional details, it is not possible to answer meaningfully.  For example: - If asking about time: "It is [current time]." - If asking about a decision: "Please clarify what you are deciding." 
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: kaira tell me whether in the arm for
+INFO:root:Raw transcript: kaira tell me whether in the arm for
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: ironic tell me whether in jam for
+INFO:root:Raw transcript: ironic tell me whether in jam for
+INFO:root:Aurora started
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: fedora ten million latest news
+INFO:root:Raw transcript: fedora ten million latest news
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: a rawat latest news
+INFO:root:Raw transcript: a rawat latest news
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: i rawat latest news
+INFO:root:Raw transcript: i rawat latest news
+INFO:root:Processed command: latest news
+INFO:root:Command received: latest news, params: None
+INFO:root:Fetching general US news headlines
+INFO:root:News article 1: David Beckham Celebrates 50th Birthday Party in London, Son Brooklyn No Show - TMZ from TMZ
+INFO:root:News article 2: Israel fails to intercept Houthi missile targeting its main airport, showing the limits of US efforts to weaken the group - CNN from CNN
+INFO:root:News article 3: Trump Rules Out Firing ‘Total Stiff’ Powell Over Rate Cuts Pace - Bloomberg.com from Bloomberg
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: 
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: rawat latest news about india
+INFO:root:Raw transcript: rawat latest news about india
+INFO:root:Processed command: latest news about india
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: rawat latest news about india
+INFO:root:Raw transcript: rawat latest news about india
+INFO:root:Processed command: latest news about india
+INFO:root:Command received: latest news about india, params: None
+INFO:root:Fetching news for query: latest  india
+ERROR:root:NewsAPI error: No articles found
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: makhan years allowed technology
+INFO:root:Raw transcript: makhan years allowed technology
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: aaaand near nawal edna gato
+INFO:root:Raw transcript: aaaand near nawal edna gato
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: rawat news about technological
+INFO:root:Raw transcript: rawat news about technological
+INFO:root:Processed command: news about technological
+INFO:root:Command received: news about technological, params: None
+INFO:root:Fetching news for query: technological
+ERROR:root:NewsAPI error: No articles found
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: but
+INFO:root:Raw transcript: but
+INFO:root:Started speech recognition
+INFO:root:Recognized speech: i rawat break time
+INFO:root:Raw transcript: i rawat break time
+INFO:root:Processed command: break time
+INFO:root:Command received: break time, params: None
