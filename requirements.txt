@@ -7,3 +7,5 @@ tkintertable
 pyttsx3
 SpeechRecognition
 pyaudio
+pygame
+gTTS
