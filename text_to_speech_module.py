@@ -3,16 +3,15 @@ import time
 import stop_flag
 import re
 
-system = platform.system()
+system_os = platform.system()
 
-if system == "Windows":
+if system_os == "Windows":
     import pyttsx3
     from config import TTS_ENGINE
 
     engine = pyttsx3.init(TTS_ENGINE)
     engine.setProperty("rate", 170)
 
-    # Try to use a female voice
     voices = engine.getProperty("voices")
     female_voice = next((v for v in voices if "female" in v.name.lower() or "zira" in v.name.lower()), None)
     if female_voice:
@@ -21,7 +20,7 @@ if system == "Windows":
         print("⚠️ Female voice not found. Using default voice.")
 
     def speak(text):
-        """Speak text in natural phrases with stop word detection (Windows)."""
+        """Speak text with pyttsx3 on Windows."""
         if not text or not text.strip():
             return
 
@@ -29,7 +28,6 @@ if system == "Windows":
         stop_flag.is_speaking = True
 
         try:
-            # Split into phrases/sentences
             sentences = re.split(r'(?<=[.!?…:]) +', text)
 
             for sentence in sentences:
@@ -43,19 +41,17 @@ if system == "Windows":
                     print(f"🗣️ Saying: {clean}")
                     engine.say(clean)
                     engine.runAndWait()
-                    time.sleep(0.05)  # natural pause
+                    time.sleep(0.05)
         finally:
             stop_flag.is_speaking = False
 
-
 else:
-    # Linux / Codespaces fallback: gTTS + playsound
     from gtts import gTTS
     import os
-    from playsound import playsound
+    import pygame
 
     def speak(text):
-        """Speak text using gTTS (Linux fallback)."""
+        """Speak text with gTTS + pygame on Linux/Mac (Codespaces)."""
         if not text or not text.strip():
             return
 
@@ -66,10 +62,17 @@ else:
             tts = gTTS(text=text, lang="en")
             filename = "temp_audio.mp3"
             tts.save(filename)
-            playsound(filename)
+
+            pygame.mixer.init()
+            pygame.mixer.music.load(filename)
+            pygame.mixer.music.play()
+
+            while pygame.mixer.music.get_busy():
+                continue
+
             os.remove(filename)
         except Exception as e:
-            print(f"[TTS Error on Linux] {e}")
-            print(text)  # fallback: just print
+            print(f"[TTS Error on {system_os}] {e}")
+            print(text)  # fallback
         finally:
             stop_flag.is_speaking = False
