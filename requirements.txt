@@ -3,7 +3,7 @@ whisper
 rivescript
 requests
 python-dotenv
-tkintertable ; (GUI ke liye agar Tkinter features use ho rahe hain)
+tkintertable
 pyttsx3
 SpeechRecognition
 pyaudio
